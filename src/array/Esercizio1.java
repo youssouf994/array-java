@@ -1,3 +1,6 @@
+/*1. Creare la classe Esercizio1 nel cui main creare un vettore 
+(array monodimensionale) di 10 interi, popolarlo con dati casuali, sommare i dati all'interno dell'array e stampare il totale.*/
+
 package array;
 
 import java.util.Random;
