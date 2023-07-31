@@ -1,3 +1,7 @@
+/*2. Creare la classe Esercizio2 nel cui main ripetere quanto fatto nell'esercizio 1 questa volta con una matrice 2x5 (array bidimensionale di 2 righe e 5 colonne)
+anziché un vettore
+*/
+
 package array;
 
 import java.util.Random;
