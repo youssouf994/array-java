@@ -1,3 +1,7 @@
+/*6. Creare la classe Esercizio6, nel main simulare un certo numero di lanci di una coppia di dadi e calcolare il numero di volte che si ottiene come punteggio un doppio 
+6. Infine calcolare la frequenza con cui si è presentato l'evento, stamparla e confrontarla con la probabilità matematica (1/36).
+Hint: frequenza = successi / tentativi*/
+
 package array;
 
 import java.util.Scanner;
