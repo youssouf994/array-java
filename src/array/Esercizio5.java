@@ -1,3 +1,5 @@
+/*5. Creare la classe Esercizio5 nel cui main estrarre un numero a caso tra 1 e 100 (inclusi) e stabilire se è pari o dispari.*/
+
 package array;
 
 import java.util.Random;
