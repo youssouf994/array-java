@@ -1,3 +1,6 @@
+/*3. Creare la classe Esercizio3 nel cui main creare un array monodimensionale di 10 interi e inizializzarlo con valori casuali. Trovare il valore più grande e stamparlo.
+*/
+
 package array;
 
 import java.util.Random;
